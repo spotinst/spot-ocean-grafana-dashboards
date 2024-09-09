@@ -22,7 +22,7 @@ By monitoring the following key metrics, you can understand how Ocean scales.
 
 ### Current Status
 
-![Current Status](images/ocean_dashboard_current_status.png)
+![Current Status](https://github.com/user-attachments/assets/2775cc95-e271-43af-8080-eaa41927714c)
 
 - Ocean controller status. Source: Ocean.
 - Kubernetes cluster Nodes. Source: Kubernetes API server.
@@ -34,7 +34,7 @@ By monitoring the following key metrics, you can understand how Ocean scales.
 
 ### Scaling
 
-![Scaling](images/ocean_dashboard_scaling.png)
+![Scaling](https://github.com/user-attachments/assets/62ce91c7-29f1-4e7d-8054-4b4cda5d6694)
 
 #### Overview
 
@@ -61,7 +61,7 @@ By monitoring the following key metrics, you can understand how Ocean scales.
 
 #### Scaling Activity Overview
 
-![Scaling Activities](images/ocean_dashboard_scaling_actions.png)
+![Scaling Activities](https://github.com/user-attachments/assets/b1ba9cde-7c17-4161-9a0b-04bc97f35c3a)
 
 - Scaling up and down events summaries. Source: Ocean.
 - Failed scaling up and down events summaries. Source: Ocean.
@@ -75,7 +75,7 @@ By monitoring the following key metrics, you can understand how Ocean scales.
 
 ### Cost Metrics
 
-![Cost Metrics](images/ocean_dashboard_cost_overview.png)
+![Cost Metrics](https://github.com/user-attachments/assets/7a301d7d-468e-409a-8b7c-d43d7d7e4456)
 
 #### Overview
 
@@ -97,7 +97,7 @@ By monitoring the following key metrics, you can understand how Ocean scales.
 
 #### Network Metrics
 
-![Network Metrics](images/ocean_dashboard_network.png)
+![Network Metrics](https://github.com/user-attachments/assets/31230671-8baf-4fed-8177-4ccaabcd387f)
 
 - Cluster network cost during the selected aggregation interval. Source: Ocean.
 - Cluster network usage during the selected aggregation interval. Source: Ocean.
@@ -130,8 +130,7 @@ More information at https://docs.spot.io/ocean/tools-and-integrations/prometheus
 - Import the Spot Ocean Scaling and Cost Optimization Dashboard into Grafana using the template link at https://grafana.com/grafana/dashboards/21768-spot-ocean-scaling-and-cost-optimization-dashboard/ or inserting the Grafana.com ID - 21768
 - or download the dashboard json from the current repository and load it into your Grafana.
 
-<img src="images/import_ocean_dashboard.png" alt="Dashboard Installation" style="width:30%;"/>
-
+<img style="width:30%;" alt="Dashboard Installation" src="https://github.com/user-attachments/assets/e84f161c-655a-4897-8f8c-d9893f9dadac">
 
 ## Conclusion 
 
