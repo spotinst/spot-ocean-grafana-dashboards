@@ -110,7 +110,11 @@ By monitoring the following key metrics, you can understand how Ocean scales.
 - Cluster Inter-Region network cost over time. Source: Ocean.
 - Cluster Inter-Region network usage over time. Source: Ocean.
 
-### Right-Sizing
+### Right-Sizing Metrics
+
+- VCPU Suggestions Overtime. Source: Ocean.
+- Memory Suggestions Overtime. Source: Ocean.
+- Top 5 Workloads with Potential Monthly Max. Savings. Source: Ocean.
 
 Ocean metrics are relevant to Ocean Prometheus Exporter for EKS, AKS, and GKE.
 
@@ -139,5 +143,5 @@ The Spot Ocean Scaling and Cost Optimization Dashboard is a powerful tool for un
 
 ## Next Plans
 
-- Complete utilizaiton metrics and add right-sizing graphs
+- Complete utilizaiton metrics
 
