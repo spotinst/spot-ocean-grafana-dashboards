@@ -112,6 +112,8 @@ By monitoring the following key metrics, you can understand how Ocean scales.
 
 ### Right-Sizing Metrics
 
+![Right-Sizing Metrics](https://github.com/user-attachments/assets/0fbc8d37-5aeb-47de-a1f9-6ddceb26b682)
+
 - VCPU Suggestions Overtime. Source: Ocean.
 - Memory Suggestions Overtime. Source: Ocean.
 - Top 5 Workloads with Potential Monthly Max. Savings. Source: Ocean.
