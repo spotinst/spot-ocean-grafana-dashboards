@@ -27,7 +27,7 @@ By monitoring the following key metrics, you can understand how Ocean scales.
 - Ocean controller status. Source: Ocean.
 - Kubernetes cluster Nodes. Source: Kubernetes API server.
 - Nodes managed by Ocean. Source: Ocean.
-- Cluster resources utilization - coming soon.
+- Cluster resources utilization. Source: Ocean.
 - Cluster cost during the selected aggregation interval. Source: Ocean.
 - Top 5 workloads with maximum cost during the selected aggregation interval. Source: Ocean.
 - Cluster cost's potential savings suggested by the right-sizing feature. Source: Ocean.
@@ -52,7 +52,7 @@ By monitoring the following key metrics, you can understand how Ocean scales.
 
 #### Resources Utilization Metrics
 
-- Cluster resources (CPU, memory, GPU) utilization over time - coming soon.
+- Cluster resources (CPU, memory, GPU) utilization over time. Source: Ocean.
 
 #### Pods Metrics
 
@@ -146,5 +146,5 @@ The Spot Ocean Scaling and Cost Optimization Dashboard is a powerful tool for un
 
 ## Next Plans
 
-- Complete utilizaiton metrics and add right-sizing graphs
+- Continues optimization
 
