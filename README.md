@@ -64,7 +64,10 @@ By monitoring the following key metrics, you can understand how Ocean scales.
 ![Scaling Activities](images/ocean_dashboard_scaling_actions.png)
 
 - Scaling up and down events summaries. Source: Ocean.
+- Nodes Added Over Time. Source: Ocean.
+- Nodes Removed Over Time. Source: Ocean.
 - Failed scaling up and down events summaries. Source: Ocean.
+- Failed Scales Up Overtime. Source: Ocean.
 
 #### Ocean Controllers Metrics
 

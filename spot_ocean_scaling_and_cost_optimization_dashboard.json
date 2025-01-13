@@ -866,7 +866,7 @@
             "h": 1,
             "w": 24,
             "x": 0,
-            "y": 10
+            "y": 189
           },
           "id": 187,
           "options": {
@@ -892,7 +892,7 @@
             "h": 1,
             "w": 6,
             "x": 0,
-            "y": 11
+            "y": 190
           },
           "id": 227,
           "options": {
@@ -917,7 +917,7 @@
             "h": 1,
             "w": 2,
             "x": 6,
-            "y": 11
+            "y": 190
           },
           "id": 230,
           "options": {
@@ -972,7 +972,7 @@
             "h": 8,
             "w": 4,
             "x": 8,
-            "y": 11
+            "y": 190
           },
           "id": 119,
           "options": {
@@ -1038,7 +1038,7 @@
             "h": 8,
             "w": 4,
             "x": 12,
-            "y": 11
+            "y": 190
           },
           "id": 131,
           "options": {
@@ -1117,7 +1117,7 @@
             "h": 8,
             "w": 4,
             "x": 16,
-            "y": 11
+            "y": 190
           },
           "id": 130,
           "options": {
@@ -1183,7 +1183,7 @@
             "h": 8,
             "w": 4,
             "x": 20,
-            "y": 11
+            "y": 190
           },
           "id": 132,
           "options": {
@@ -1251,7 +1251,7 @@
             "h": 3,
             "w": 2,
             "x": 0,
-            "y": 12
+            "y": 191
           },
           "id": 172,
           "options": {
@@ -1321,7 +1321,7 @@
             "h": 3,
             "w": 2,
             "x": 2,
-            "y": 12
+            "y": 191
           },
           "id": 133,
           "options": {
@@ -1403,7 +1403,7 @@
             "h": 3,
             "w": 2,
             "x": 4,
-            "y": 12
+            "y": 191
           },
           "id": 171,
           "options": {
@@ -1484,7 +1484,7 @@
             "h": 3,
             "w": 2,
             "x": 6,
-            "y": 12
+            "y": 191
           },
           "id": 184,
           "options": {
@@ -1535,7 +1535,7 @@
             "h": 1,
             "w": 6,
             "x": 0,
-            "y": 15
+            "y": 194
           },
           "id": 228,
           "options": {
@@ -1560,7 +1560,7 @@
             "h": 1,
             "w": 2,
             "x": 6,
-            "y": 15
+            "y": 194
           },
           "id": 231,
           "options": {
@@ -1615,7 +1615,7 @@
             "h": 3,
             "w": 2,
             "x": 0,
-            "y": 16
+            "y": 195
           },
           "id": 134,
           "options": {
@@ -1685,7 +1685,7 @@
             "h": 3,
             "w": 2,
             "x": 2,
-            "y": 16
+            "y": 195
           },
           "id": 177,
           "options": {
@@ -1766,7 +1766,7 @@
             "h": 3,
             "w": 2,
             "x": 4,
-            "y": 16
+            "y": 195
           },
           "id": 173,
           "options": {
@@ -1847,7 +1847,7 @@
             "h": 3,
             "w": 2,
             "x": 6,
-            "y": 16
+            "y": 195
           },
           "id": 185,
           "options": {
@@ -1898,7 +1898,7 @@
             "h": 1,
             "w": 24,
             "x": 0,
-            "y": 19
+            "y": 198
           },
           "id": 188,
           "options": {
@@ -1997,7 +1997,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 20
+            "y": 199
           },
           "id": 102,
           "options": {
@@ -2108,7 +2108,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 28
+            "y": 207
           },
           "id": 139,
           "options": {
@@ -2219,7 +2219,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 36
+            "y": 215
           },
           "id": 142,
           "options": {
@@ -2330,7 +2330,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 44
+            "y": 223
           },
           "id": 143,
           "options": {
@@ -2442,7 +2442,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 52
+            "y": 231
           },
           "id": 144,
           "options": {
@@ -2484,7 +2484,7 @@
             "h": 1,
             "w": 24,
             "x": 0,
-            "y": 60
+            "y": 239
           },
           "id": 189,
           "options": {
@@ -2570,7 +2570,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 61
+            "y": 240
           },
           "id": 149,
           "options": {
@@ -2672,7 +2672,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 69
+            "y": 248
           },
           "id": 150,
           "options": {
@@ -2774,7 +2774,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 77
+            "y": 256
           },
           "id": 151,
           "options": {
@@ -2816,7 +2816,7 @@
             "h": 1,
             "w": 24,
             "x": 0,
-            "y": 85
+            "y": 264
           },
           "id": 190,
           "options": {
@@ -2901,7 +2901,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 86
+            "y": 265
           },
           "id": 152,
           "options": {
@@ -3002,7 +3002,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 94
+            "y": 273
           },
           "id": 153,
           "options": {
@@ -3044,7 +3044,7 @@
             "h": 1,
             "w": 24,
             "x": 0,
-            "y": 102
+            "y": 281
           },
           "id": 191,
           "options": {
@@ -3070,7 +3070,7 @@
             "h": 14,
             "w": 6,
             "x": 0,
-            "y": 103
+            "y": 282
           },
           "id": 161,
           "options": {
@@ -3079,7 +3079,7 @@
               "showLineNumbers": false,
               "showMiniMap": false
             },
-            "content": "<ul>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">Scale Up</span> - Node provisioned to satisfy pending pods/headroom requests.</li>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">Scale Down</span> - Node terminated to optimize resource utilization.</li>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">On Demand to Spot Replacement</span> - Spot node created instead of On Demand Node.</li>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">Lower Cost Replacement</span> - Node replaced with a cheaper Node.</li>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">Shutdown Hours</span> - Node stopped during scheduled hours.</li>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">Reserved Capacity Utilization</span> - Node replaced with a Node from Reserved Instances or Saving Plans pools.</li>\n  <li><span style=\"color:rgb(242, 73, 92); font-weight:bold;\">Recovery</span> - Node provisioned to replace a Spot Node reclaimed by Cloud Provider.</li>\n  <li><span style=\"color:rgb(242, 73, 92); font-weight:bold;\">Auto Healing</span> - Node provisioned instead of an unhealthy Node.</li>\n  <li><span style=\"color:rgb(87, 148, 242); font-weight:bold;\">Workload Migration</span> - Node provisioned due to a workload migration process.</li>\n  <li><span style=\"color:rgb(87, 148, 242); font-weight:bold;\">Cluster Roll</span> - Node upgrade initiated by Administrator.</li>\n  <li><span style=\"color:rgb(87, 148, 242); font-weight:bold;\">Manual Scaling</span> - Node launched or terminated manually by Administrator.</li>\n</ul>",
+            "content": "<ul>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">Scale Up</span> - Node provisioned to satisfy pending pods/headroom requests.</li>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">Scale Down</span> - Node terminated to optimize resource utilization.</li>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">On Demand to Spot Replacement</span> - Spot node created instead of On Demand Node.</li>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">Lower Cost Replacement</span> - Node replaced with a cheaper Node.</li>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">Shutdown Hours</span> - Node stopped during scheduled hours.</li>\n  <li><span style=\"color:rgb(115, 191, 105); font-weight:bold;\">Reserved Capacity Utilization</span> - Node replaced with a Node from Reserved Instances or Saving Plans pools.</li>\n  <li><span style=\"color:rgb(242, 73, 92); font-weight:bold;\">Recovery</span> - Node provisioned to replace a Spot Node reclaimed by Cloud Provider.</li>\n  <li><span style=\"color:rgb(242, 73, 92); font-weight:bold;\">Auto Healing</span> - Node provisioned instead of an unhealthy Node.</li>\n  <li><span style=\"color:rgb(242, 73, 92); font-weight:bold;\">Failed To Register</span> - Node failed to register to cluster.</li>\n  <li><span style=\"color:rgb(87, 148, 242); font-weight:bold;\">Workload Migration</span> - Node provisioned due to a workload migration process.</li>\n  <li><span style=\"color:rgb(87, 148, 242); font-weight:bold;\">Cluster Roll</span> - Node upgrade initiated by Administrator.</li>\n  <li><span style=\"color:rgb(87, 148, 242); font-weight:bold;\">Manual Scaling</span> - Node launched or terminated manually by Administrator.</li>\n</ul>",
             "mode": "html"
           },
           "pluginVersion": "11.3.1",
@@ -3254,7 +3254,7 @@
             "h": 14,
             "w": 9,
             "x": 6,
-            "y": 103
+            "y": 282
           },
           "id": 159,
           "options": {
@@ -3349,6 +3349,11 @@
                       "index": 4,
                       "text": "Cluster Roll"
                     },
+                    "failedToRegister": {
+                      "color": "red",
+                      "index": 11,
+                      "text": "Failed To Register"
+                    },
                     "manualConfiguration": {
                       "color": "blue",
                       "index": 5,
@@ -3358,6 +3363,10 @@
                       "color": "green",
                       "index": 2,
                       "text": "On Demand to Spot Replacement"
+                    },
+                    "other": {
+                      "index": 12,
+                      "text": "Other"
                     },
                     "pendingPodsOrHeadroom": {
                       "color": "green",
@@ -3484,7 +3493,7 @@
             "h": 14,
             "w": 9,
             "x": 15,
-            "y": 103
+            "y": 282
           },
           "id": 162,
           "options": {
@@ -3548,6 +3557,204 @@
           "type": "table"
         },
         {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "${DS_PROMETHEUS}"
+          },
+          "fieldConfig": {
+            "defaults": {
+              "color": {
+                "fixedColor": "blue",
+                "mode": "fixed"
+              },
+              "custom": {
+                "axisBorderShow": false,
+                "axisCenteredZero": false,
+                "axisColorMode": "text",
+                "axisLabel": "",
+                "axisPlacement": "auto",
+                "axisSoftMin": 0,
+                "barAlignment": 0,
+                "barWidthFactor": 0.6,
+                "drawStyle": "line",
+                "fillOpacity": 0,
+                "gradientMode": "none",
+                "hideFrom": {
+                  "legend": false,
+                  "tooltip": false,
+                  "viz": false
+                },
+                "insertNulls": false,
+                "lineInterpolation": "linear",
+                "lineWidth": 2,
+                "pointSize": 5,
+                "scaleDistribution": {
+                  "log": 2,
+                  "type": "symlog"
+                },
+                "showPoints": "auto",
+                "spanNulls": false,
+                "stacking": {
+                  "group": "A",
+                  "mode": "none"
+                },
+                "thresholdsStyle": {
+                  "mode": "off"
+                }
+              },
+              "displayName": "Nodes Added Over Time",
+              "mappings": [],
+              "noValue": "No Data",
+              "thresholds": {
+                "mode": "absolute",
+                "steps": [
+                  {
+                    "color": "green",
+                    "value": null
+                  }
+                ]
+              },
+              "unit": "none"
+            },
+            "overrides": []
+          },
+          "gridPos": {
+            "h": 8,
+            "w": 24,
+            "x": 0,
+            "y": 296
+          },
+          "id": 239,
+          "options": {
+            "legend": {
+              "calcs": [],
+              "displayMode": "list",
+              "placement": "bottom",
+              "showLegend": true
+            },
+            "tooltip": {
+              "mode": "single",
+              "sort": "none"
+            }
+          },
+          "pluginVersion": "11.3.1",
+          "targets": [
+            {
+              "datasource": {
+                "type": "prometheus",
+                "uid": "${DS_PROMETHEUS}"
+              },
+              "editorMode": "code",
+              "expr": "sum(ocean_current_nodes_added{ocean_id=\"$ocean_id\"}) ",
+              "instant": false,
+              "legendFormat": "__auto",
+              "range": true,
+              "refId": "A"
+            }
+          ],
+          "title": "Nodes Added Over Time",
+          "type": "timeseries"
+        },
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "${DS_PROMETHEUS}"
+          },
+          "fieldConfig": {
+            "defaults": {
+              "color": {
+                "fixedColor": "blue",
+                "mode": "fixed"
+              },
+              "custom": {
+                "axisBorderShow": false,
+                "axisCenteredZero": false,
+                "axisColorMode": "text",
+                "axisLabel": "",
+                "axisPlacement": "auto",
+                "axisSoftMin": 0,
+                "barAlignment": 0,
+                "barWidthFactor": 0.6,
+                "drawStyle": "line",
+                "fillOpacity": 0,
+                "gradientMode": "none",
+                "hideFrom": {
+                  "legend": false,
+                  "tooltip": false,
+                  "viz": false
+                },
+                "insertNulls": false,
+                "lineInterpolation": "linear",
+                "lineWidth": 2,
+                "pointSize": 5,
+                "scaleDistribution": {
+                  "log": 2,
+                  "type": "symlog"
+                },
+                "showPoints": "auto",
+                "spanNulls": false,
+                "stacking": {
+                  "group": "A",
+                  "mode": "none"
+                },
+                "thresholdsStyle": {
+                  "mode": "off"
+                }
+              },
+              "displayName": "Nodes Removed Over Time",
+              "mappings": [],
+              "noValue": "No Data",
+              "thresholds": {
+                "mode": "absolute",
+                "steps": [
+                  {
+                    "color": "green",
+                    "value": null
+                  }
+                ]
+              },
+              "unit": "none"
+            },
+            "overrides": []
+          },
+          "gridPos": {
+            "h": 8,
+            "w": 24,
+            "x": 0,
+            "y": 304
+          },
+          "id": 241,
+          "options": {
+            "legend": {
+              "calcs": [],
+              "displayMode": "list",
+              "placement": "bottom",
+              "showLegend": true
+            },
+            "tooltip": {
+              "mode": "single",
+              "sort": "none"
+            }
+          },
+          "pluginVersion": "11.3.1",
+          "targets": [
+            {
+              "datasource": {
+                "type": "prometheus",
+                "uid": "${DS_PROMETHEUS}"
+              },
+              "editorMode": "code",
+              "expr": "sum(ocean_current_nodes_removed{ocean_id=\"$ocean_id\"}) ",
+              "instant": false,
+              "legendFormat": "__auto",
+              "range": true,
+              "refId": "A"
+            }
+          ],
+          "title": "Nodes Removed Over Time",
+          "type": "timeseries"
+        },
+        {
           "fieldConfig": {
             "defaults": {},
             "overrides": []
@@ -3556,7 +3763,7 @@
             "h": 1,
             "w": 24,
             "x": 0,
-            "y": 117
+            "y": 312
           },
           "id": 233,
           "options": {
@@ -3582,7 +3789,7 @@
             "h": 14,
             "w": 6,
             "x": 0,
-            "y": 118
+            "y": 313
           },
           "id": 234,
           "options": {
@@ -3750,7 +3957,7 @@
             "h": 14,
             "w": 9,
             "x": 6,
-            "y": 118
+            "y": 313
           },
           "id": 232,
           "options": {
@@ -3937,7 +4144,7 @@
             "h": 14,
             "w": 9,
             "x": 15,
-            "y": 118
+            "y": 313
           },
           "id": 235,
           "options": {
@@ -4003,6 +4210,105 @@
           "type": "table"
         },
         {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "${DS_PROMETHEUS}"
+          },
+          "fieldConfig": {
+            "defaults": {
+              "color": {
+                "fixedColor": "blue",
+                "mode": "fixed"
+              },
+              "custom": {
+                "axisBorderShow": false,
+                "axisCenteredZero": false,
+                "axisColorMode": "text",
+                "axisLabel": "",
+                "axisPlacement": "auto",
+                "axisSoftMin": 0,
+                "barAlignment": 0,
+                "barWidthFactor": 0.6,
+                "drawStyle": "line",
+                "fillOpacity": 0,
+                "gradientMode": "none",
+                "hideFrom": {
+                  "legend": false,
+                  "tooltip": false,
+                  "viz": false
+                },
+                "insertNulls": false,
+                "lineInterpolation": "linear",
+                "lineWidth": 2,
+                "pointSize": 5,
+                "scaleDistribution": {
+                  "log": 2,
+                  "type": "symlog"
+                },
+                "showPoints": "auto",
+                "spanNulls": false,
+                "stacking": {
+                  "group": "A",
+                  "mode": "none"
+                },
+                "thresholdsStyle": {
+                  "mode": "off"
+                }
+              },
+              "displayName": "Failed Scales Up Overtime",
+              "mappings": [],
+              "noValue": "No Data",
+              "thresholds": {
+                "mode": "absolute",
+                "steps": [
+                  {
+                    "color": "green",
+                    "value": null
+                  }
+                ]
+              },
+              "unit": "none"
+            },
+            "overrides": []
+          },
+          "gridPos": {
+            "h": 8,
+            "w": 24,
+            "x": 0,
+            "y": 327
+          },
+          "id": 240,
+          "options": {
+            "legend": {
+              "calcs": [],
+              "displayMode": "list",
+              "placement": "bottom",
+              "showLegend": true
+            },
+            "tooltip": {
+              "mode": "single",
+              "sort": "none"
+            }
+          },
+          "pluginVersion": "11.3.1",
+          "targets": [
+            {
+              "datasource": {
+                "type": "prometheus",
+                "uid": "${DS_PROMETHEUS}"
+              },
+              "editorMode": "code",
+              "expr": "sum(ocean_current_failed_scale_ups{ocean_id=\"$ocean_id\"}) ",
+              "instant": false,
+              "legendFormat": "__auto",
+              "range": true,
+              "refId": "A"
+            }
+          ],
+          "title": "Failed Scales Up Overtime",
+          "type": "timeseries"
+        },
+        {
           "fieldConfig": {
             "defaults": {},
             "overrides": []
@@ -4011,7 +4317,7 @@
             "h": 1,
             "w": 24,
             "x": 0,
-            "y": 132
+            "y": 335
           },
           "id": 192,
           "options": {
@@ -4156,7 +4462,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 133
+            "y": 336
           },
           "id": 158,
           "options": {
@@ -4295,7 +4601,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 141
+            "y": 344
           },
           "id": 156,
           "options": {
@@ -4378,8 +4684,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   },
                   {
                     "color": "red",
@@ -4395,7 +4700,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 149
+            "y": 352
           },
           "id": 155,
           "options": {
@@ -4494,7 +4799,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 157
+            "y": 360
           },
           "id": 157,
           "options": {
@@ -4550,7 +4855,7 @@
             "h": 1,
             "w": 24,
             "x": 0,
-            "y": 11
+            "y": 532
           },
           "id": 195,
           "options": {
@@ -4582,8 +4887,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "text",
-                    "value": null
+                    "color": "text"
                   }
                 ]
               },
@@ -4595,7 +4899,7 @@
             "h": 4,
             "w": 6,
             "x": 0,
-            "y": 12
+            "y": 533
           },
           "id": 224,
           "options": {
@@ -4756,7 +5060,7 @@
             "h": 8,
             "w": 6,
             "x": 6,
-            "y": 12
+            "y": 533
           },
           "id": 197,
           "options": {
@@ -4876,8 +5180,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "text",
-                    "value": null
+                    "color": "text"
                   }
                 ]
               },
@@ -4930,7 +5233,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 12
+            "y": 533
           },
           "id": 196,
           "options": {
@@ -5012,8 +5315,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "text",
-                    "value": null
+                    "color": "text"
                   }
                 ]
               },
@@ -5025,7 +5327,7 @@
             "h": 4,
             "w": 6,
             "x": 0,
-            "y": 16
+            "y": 537
           },
           "id": 198,
           "options": {
@@ -5077,7 +5379,7 @@
             "h": 1,
             "w": 24,
             "x": 0,
-            "y": 20
+            "y": 541
           },
           "id": 201,
           "options": {
@@ -5110,8 +5412,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "text",
-                    "value": null
+                    "color": "text"
                   }
                 ]
               },
@@ -5123,7 +5424,7 @@
             "h": 4,
             "w": 6,
             "x": 0,
-            "y": 21
+            "y": 542
           },
           "id": 202,
           "options": {
@@ -5244,7 +5545,7 @@
             "h": 8,
             "w": 6,
             "x": 6,
-            "y": 21
+            "y": 542
           },
           "id": 203,
           "options": {
@@ -5300,8 +5601,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "text",
-                    "value": null
+                    "color": "text"
                   }
                 ]
               },
@@ -5313,7 +5613,7 @@
             "h": 4,
             "w": 6,
             "x": 12,
-            "y": 21
+            "y": 542
           },
           "id": 204,
           "options": {
@@ -5437,7 +5737,7 @@
             "h": 8,
             "w": 6,
             "x": 18,
-            "y": 21
+            "y": 542
           },
           "id": 205,
           "options": {
@@ -5487,7 +5787,7 @@
             "h": 4,
             "w": 6,
             "x": 0,
-            "y": 25
+            "y": 546
           },
           "id": 225,
           "options": {
@@ -5512,7 +5812,7 @@
             "h": 4,
             "w": 6,
             "x": 12,
-            "y": 25
+            "y": 546
           },
           "id": 199,
           "options": {
@@ -5671,7 +5971,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 29
+            "y": 550
           },
           "id": 206,
           "options": {
@@ -5796,7 +6096,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 29
+            "y": 550
           },
           "id": 207,
           "options": {
@@ -6041,7 +6341,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 37
+            "y": 558
           },
           "id": 208,
           "options": {
@@ -6286,7 +6586,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 37
+            "y": 558
           },
           "id": 209,
           "options": {
@@ -6337,7 +6637,7 @@
             "h": 1,
             "w": 24,
             "x": 0,
-            "y": 45
+            "y": 566
           },
           "id": 200,
           "options": {
@@ -6381,7 +6681,7 @@
             "h": 4,
             "w": 6,
             "x": 0,
-            "y": 46
+            "y": 567
           },
           "id": 210,
           "options": {
@@ -6571,7 +6871,7 @@
             "h": 8,
             "w": 6,
             "x": 6,
-            "y": 46
+            "y": 567
           },
           "id": 212,
           "options": {
@@ -6677,7 +6977,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 46
+            "y": 567
           },
           "id": 213,
           "options": {
@@ -6737,7 +7037,7 @@
             "h": 4,
             "w": 6,
             "x": 0,
-            "y": 50
+            "y": 571
           },
           "id": 211,
           "options": {
@@ -6846,7 +7146,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 54
+            "y": 575
           },
           "id": 214,
           "options": {
@@ -6966,7 +7266,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 54
+            "y": 575
           },
           "id": 215,
           "options": {
@@ -7053,7 +7353,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 62
+            "y": 583
           },
           "id": 216,
           "options": {
@@ -7161,7 +7461,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 62
+            "y": 583
           },
           "id": 217,
           "options": {
@@ -7248,7 +7548,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 70
+            "y": 591
           },
           "id": 218,
           "options": {
@@ -7356,7 +7656,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 70
+            "y": 591
           },
           "id": 219,
           "options": {
@@ -7514,7 +7814,7 @@
             "h": 8,
             "w": 12,
             "x": 0,
-            "y": 234
+            "y": 755
           },
           "id": 236,
           "options": {
@@ -7707,7 +8007,7 @@
             "h": 8,
             "w": 12,
             "x": 12,
-            "y": 234
+            "y": 755
           },
           "id": 237,
           "options": {
@@ -7825,7 +8125,7 @@
             "h": 8,
             "w": 24,
             "x": 0,
-            "y": 242
+            "y": 763
           },
           "id": 238,
           "options": {
@@ -8012,13 +8312,13 @@
     ]
   },
   "time": {
-    "from": "now-30d",
+    "from": "now-24h",
     "to": "now"
   },
   "timepicker": {},
   "timezone": "",
   "title": "Spot Ocean Scaling and Cost Optimization Dashboard",
   "uid": "cdtzsb050x2psa",
-  "version": 25,
+  "version": 36,
   "weekStart": ""
 }
